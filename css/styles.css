@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'borgsquad';
-    src: url('../borgsquadcond.ttf') format('truetype');
+    src: url('borgsquadcond.ttf') format('truetype');
 
 }
 
 @font-face {
 
     font-family: 'f37';
-    src: url('../F37JudgeMediumCondensed.ttf') format('truetype');
+    src: url('F37JudgeMediumCondensed.ttf') format('truetype');
 }
 
 
@@ -58,7 +58,7 @@ h5 {
 
 .image {
 
-    background: url("../banner.jpg");
+    background: url("banner.jpg");
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
